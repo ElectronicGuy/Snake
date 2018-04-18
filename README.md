@@ -4,4 +4,4 @@ This repository is a modified (hopefully improved) version of the one proposed b
 I am accepting pull requests for bug fixes, minor improvements to gameplay, and visual design. 
 I do not want the code to be more complex as the goal is fast readability and understanding.
 
-Play the game here!
+[Play the game here!](https://ElectronicGuy.github.io/Snake/)
